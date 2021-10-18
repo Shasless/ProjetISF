@@ -1,5 +1,6 @@
 ﻿
 
+using System.Data;
 using ProjetISF.Person;
 
 namespace ProjetISF.Json
@@ -19,6 +20,7 @@ namespace ProjetISF.Json
         public Client GetClient(int guid)
         {
             //TODO
+            return null;
         }
 
         public void UpdateClient(Client c)

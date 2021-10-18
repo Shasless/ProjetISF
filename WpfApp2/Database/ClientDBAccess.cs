@@ -17,6 +17,7 @@ namespace ProjetISF.Database
         public Client GetClient(int guid)
         {
             //TODO
+            return null;
         }
 
         public void UpdateClient(Client c)
